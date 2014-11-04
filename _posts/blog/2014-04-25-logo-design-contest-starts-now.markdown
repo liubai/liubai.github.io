@@ -16,8 +16,8 @@ thumb: http://liubai.qiniudn.com/suo.jpg
 2001年上映的电影，我大概是在10年前看过吧，那个时候还是个小破孩，爱情是什么？不知道。。
 
 只记得一个情节，就是他们换鞋子穿，只是感觉好玩而已。
+<img src="http://liubai.qiniudn.com/1.jpg" style="width:700px;height=378px">
 
-img: http://liubai.qiniudn.com/1.jpg
 
 后来上一次看，是在高二，寒假无聊，拿着新买的mp4 oppo s9看了一遍，竟然看哭了，不知道怎么的总感觉在男主角对她的新男友说完10条准则后，两个人就此分手，似乎感觉悲剧的话会更加感人，没想到后来在一起了。
 
