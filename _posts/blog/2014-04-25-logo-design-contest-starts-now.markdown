@@ -28,26 +28,34 @@ thumb: thumb02.jpg
 第四、如果她打你，一定要装得很痛，如果真的很痛，那要装得没事；
 第五、在你们认识的第一百天，一定要去她班上送一支玫瑰，她会非常喜欢；
 就会令人无比的伤心，所以她才会知道谁才是最爱自己的人，错过了他是多么的痛苦，于是她跑了出去，准备找回。。
+
 <img src="http://liubai.qiniudn.com/2.jpg" style="width:700px;height=378px">
+
 他们的相识没那么浪漫，有些伤气氛
 <img src="http://liubai.qiniudn.com/3.jpg" style="width:700px;height=378px">
 
 也可能命运本身就是纠缠不清的 东西 ，才会让他们相遇
 
 <img src="http://liubai.qiniudn.com/4.jpg" style="width:700px;height=378px">
+
 一个喝酒会哭的女孩   一定是个有故事的人  他说，我想治好她的哀伤
 
 <img src="http://liubai.qiniudn.com/5.jpg" style="width:700px;height=378px">
+
 hh
 <img src="http://liubai.qiniudn.com/6.jpg" style="width:700px;height=378px">
 
 <img src="http://liubai.qiniudn.com/7.jpg" style="width:700px;height=378px">
+
 上面这张图，就说明了weishenmewoxihuanzhamaweidenvsheng
 <img src="http://liubai.qiniudn.com/8.jpg" style="width:700px;height=378px">
+
 打人都很好看。。。
 <img src="http://liubai.qiniudn.com/9.jpg" style="width:700px;height=378px">
+
 牵牛学的那段，you called a wrong number
 <img src="http://liubai.qiniudn.com/10.jpg" style="width:700px;height=378px">
+
 就在被劫持的这段，女主角说出了自己的心声，她很难忘记前男友
 <img src="http://liubai.qiniudn.com/11.jpg" style="width:700px;height=378px">
 
@@ -56,12 +64,14 @@ hh
 <img src="http://liubai.qiniudn.com/13.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/14.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/15.jpg" style="width:700px;height=378px">
+
 你最喜欢女生做什么的时候，应该是弹钢琴的时候，那首 canon
 
 <img src="http://liubai.qiniudn.com/16.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/17.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/18.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/19.jpg" style="width:700px;height=378px">
+
 这个情节看得好难受，总是当你失去了才学会珍惜
 <img src="http://liubai.qiniudn.com/20.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/21.jpg" style="width:700px;height=378px">
@@ -70,6 +80,7 @@ hh
 <img src="http://liubai.qiniudn.com/24.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/25.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/26.jpg" style="width:700px;height=378px">
+
 牵牛旁边是导演郭在容
 <img src="http://liubai.qiniudn.com/27.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/28.jpg" style="width:700px;height=378px">
@@ -77,6 +88,7 @@ hh
 <img src="http://liubai.qiniudn.com/30.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/31.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/32.jpg" style="width:700px;height=378px">
+
 看到这个老人的时候我真的吓得半死，要是他一直等到这个岁数，那可就太悲了
 <img src="http://liubai.qiniudn.com/33.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/34.jpg" style="width:700px;height=378px">
@@ -88,6 +100,7 @@ hh
 她不再离地铁那么近
 <img src="http://liubai.qiniudn.com/39.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/40.jpg" style="width:700px;height=378px">
+
 后记 （转）
 野蛮女友隐藏情节1.
 关于五胞胎是哪五个：旅馆给钥匙的，旅馆登记的，两个人衣服不一样；浦阳站附近应
@@ -115,12 +128,14 @@ the nuber you dailed not in service,please call again”之前，背景中的广
 过，所有问题都可迎刃而解。那个物体就是ufo！！！那个老头应该就是来自未来的王晶
 ！！因为他说他也看了那封信！
 <img src="http://liubai.qiniudn.com/41.jpg" style="width:700px;height=378px">
+
 7.
 男主角在打壁球时被球击倒，躺在地上的他最后露出了一丝诡异的笑容（注意看喔，
 时间很短），为什么？结合当时女主角的位置，可以断定他看到了女主角的裙底春光，
 接下来两人换鞋时女主角说她考试那天没穿内裤（难道她经常不穿吗？）……真是◎＃
 ％￥※……
 <img src="http://liubai.qiniudn.com/42.jpg" style="width:700px;height=378px">
+
 关于真实剧情：该剧是根据韩国网上流传的《不和言喻的她》改编的。真实的情况是男
 女两人因为家庭原因分手，约好五年后在纽约见的，结果……现在，新郎结婚了，新娘
 不是她……
@@ -134,7 +149,8 @@ the nuber you dailed not in service,please call again”之前，背景中的广
 该是故意安排的，因为老人就在镜头正中焦点处，出现的时间虽然短，但比起其他随意
 的镜头还是要长一点点的。女主角不是在多处提到“来自未来的人”吗？这些都更让我
 相信,那个老人就是来自未来的男主角，他回到过去来回味并撮合自己的恋情，呵呵.（
-这又是导演悉心安排的一幕！确实厉害！）·right or left：被舍友笑称为“经典”的片段。我们可爱的女主角柔情的闭上眼睛，
+这又是导演悉心安排的一幕！确实厉害！）·right or left：被舍友笑称为“经典”的片段。
+我们可爱的女主角柔情的闭上眼睛，
 没想到却给男主角重重的一击，不由得的红颜大怒，也毫不客气的还以颜色。不过大家
 注意到了没有，其实走过去的士兵共有6个，而女主角却只扇了5下，啧啧，这样的体贴
 多么的令人心动啊。 ^-*
