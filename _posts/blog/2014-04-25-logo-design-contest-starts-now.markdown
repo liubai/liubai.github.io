@@ -6,7 +6,7 @@ author: me
 categories:
 - blog
 - pure
-thumb: suo.jpg
+thumb: thumb02.jpg
 ---
 
 <b>Lost Memory —我的野蛮女友 </b> 
