@@ -6,6 +6,7 @@ author: me
 categories: 
 - blog
 - 散文流
+img: post03.jpg
 thumb: thumb03.jpg
 ---
 
