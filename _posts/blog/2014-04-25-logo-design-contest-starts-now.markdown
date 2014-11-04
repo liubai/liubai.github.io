@@ -6,7 +6,7 @@ author: me
 categories:
 - blog
 - pure
-thumb: http://liubai.qiniudn.com/suo.jpg
+<img src="http://liubai.qiniudn.com/suo.jpg" style="width:700px;height=378px">
 ---
 
 <b>Lost Memory —我的野蛮女友 </b> 
