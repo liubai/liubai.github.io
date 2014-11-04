@@ -1,31 +1,37 @@
 ---
 layout: post
-title: "Logo design contest starts now"
-date: 2014-04-25 16:54:46
-author: Admin
+title: "Lost Memory —我的野蛮女友"
+date: 2014-11-4
+author: me
 categories:
 - blog
-- Tips&Tricks
-- Code-Snippets
-img: post03.jpg
-thumb: thumb03.jpg
+- pure
+thumb: http://liubai.qiniudn.com/suo.jpg
 ---
 
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+<b>Lost Memory —我的野蛮女友 </b> 
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+最喜欢的一部电影（和肖申克的救赎并列）
 
-Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
+2001年上映的电影，我大概是在10年前看过吧，那个时候还是个小破孩，爱情是什么？不知道。。
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+只记得一个情节，就是他们换鞋子穿，只是感觉好玩而已。
 
-####Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+img: http://liubai.qiniudn.com/1.jpg
+
+后来上一次看，是在高二，寒假无聊，拿着新买的mp4 oppo s9看了一遍，竟然看哭了，不知道怎么的总感觉在男主角对她的新男友说完10条准则后，两个人就此分手，似乎感觉悲剧的话会更加感人，没想到后来在一起了。
+
+爱情似乎就像是习惯，当你养成了这个习惯当你失去的时候，总感觉心里难言的痛楚，而当你回忆起点点滴滴，就像牵牛说的那样，
+第一、不要打算让她温柔；
+第二、不要让她喝三杯以上的酒，否则她会逢人就打；
+第三、在咖啡馆一定要喝咖啡、千万不要喝可乐或橙汁；
+第四、如果她打你，一定要装得很痛，如果真的很痛，那要装得没事；
+第五、在你们认识的第一百天，一定要去她班上送一支玫瑰，她会非常喜欢；
+就会令人无比的伤心，所以她才会知道谁才是最爱自己的人，错过了他是多么的痛苦，于是她跑了出去，准备找回。。
+img: http://liubai.qiniudn.com/2.jpg
 
 
->Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
 
+[Hampden-Sydney College][hampden] 
 [hampden]: https://github.com/jekyll/jekyll
