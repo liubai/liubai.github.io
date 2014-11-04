@@ -9,7 +9,6 @@ categories:
 thumb: thumb04.jpg
 ---
 
-<b>那些年-后来 </b> 
 
 <img src="http://liubai.qiniudn.com/other1.jpg" style="width:700px;height=378px">
 <img src="http://liubai.qiniudn.com/other2.jpg" style="width:700px;height=378px">
