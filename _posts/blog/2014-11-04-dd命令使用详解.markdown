@@ -5,7 +5,7 @@ date: 2014-11-04
 author: me
 categories: 
 - blog 
-- IT
+- 技术流
 img: post01.jpg
 thumb: thumb01.jpg
 ---

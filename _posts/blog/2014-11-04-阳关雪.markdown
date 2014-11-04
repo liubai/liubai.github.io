@@ -5,8 +5,7 @@ date:   2014-11-04
 author: me
 categories: 
 - blog
-- article
-- pure
+- 散文流
 img: post03.jpg
 thumb: thumb03.jpg
 ---
