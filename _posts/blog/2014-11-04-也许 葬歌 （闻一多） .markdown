@@ -8,7 +8,6 @@ categories:
 - blog
 - 清新流
 - 散文流
-img: post04.jpg
 thumb: thumb04.jpg
 ---
 

@@ -6,7 +6,6 @@ author: me
 categories:
 - blog
 - 清新流
-img: post04.jpg
 thumb: thumb04.jpg
 ---
 

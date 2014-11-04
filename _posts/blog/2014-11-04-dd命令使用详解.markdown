@@ -6,7 +6,6 @@ author: me
 categories: 
 - blog 
 - 技术流
-img: post01.jpg
 thumb: thumb01.jpg
 ---
 
