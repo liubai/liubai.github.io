@@ -209,6 +209,7 @@ a:focus {
 	background:url(http://liubai.qiniudn.com/intro-bg.jpg);
 	background-position:center;
 	background-repeat:no-repeat; 
+	background-size: cover;
 	min-height: 550px;
 	padding-top: 100px;
 	padding-bottom: 0px;
