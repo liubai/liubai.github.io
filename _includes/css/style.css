@@ -292,9 +292,9 @@ a:focus {
 }
 
 /* Testimonials Wrap */
+
 #twrapback {
-    background-color: {{ site.colors.primary }};
-    background-color:rgba({{ site.colors.primary_rgb }},.8);
+    background-color: transparent;
     position: absolute;
     top: 0;
     left: 0;
@@ -303,14 +303,14 @@ a:focus {
 }
 
 #twrap {
-    background: url(../img/t-back.jpg) no-repeat center top;
+    background: url(http://liubai.qiniudn.com/test1.jpg) no-repeat center top;
     position: relative;
     margin-top: 0px;
-	padding-top:60px;
+	padding-top:160px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 700px;                /* 这是下面倒数第二份 */
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -327,25 +327,44 @@ a:focus {
 #twrap i {
 	font-size: 50px;
 	color: white;
-	margin-bottom: 25px;
+	margin-bottom: 0px;
 }
 
-#twrap p {
-	color: white;
+#twrap h3 {
+	font-size: 25px;
+}
+#twrap h4 {
+	font-weight: 200;
+	color: {{ site.colors.footer_heading }};
+	font-family: "Lato",sans-serif;
+	text-shadow: none;
 	font-size: 15px;
-	line-height: 30px;
+	font-weight: 200;
+	text-align: center;    /* 文字居中最有效的 */
+	margin-bottom:60px;
+	margin-left: auto; 
+	margin-right: auto;
+}
+#twrap p {
+	color: transparent;
+	font-size: 65px;
+	line-height: 40px;
 }
 
-/* clients logo */
-#cwrap {
-	background: #f7f7f7;
-	margin-top: 0px;
-	padding-top: 80px;
-	padding-bottom: 100px;
+
+#crap p {
+	padding-bottom: 25px;
+	color: {{ site.colors.footer_content }};
+	text-align: center;
 }
 
-#cwrap h3 {
-	margin-bottom: 60px;
+#twrap i {
+	font-size: 30px;
+	color: {{ site.colors.footer_content }};
+	padding-right: 25px;
+}
+#twrap i:hover {
+	color: {{ site.colors.primary }}
 }
 
 /* Footer */
